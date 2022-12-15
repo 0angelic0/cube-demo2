@@ -89,11 +89,11 @@ cube('Card', {
     },
     active: {
       type: "string",
-      sql: "clsActive"
+      sql: "cIsActive"
     },
     risk: {
       type: "string",
-      sql: "clsRisk"
+      sql: "cIsRisk"
     },
     optionId: {
       type: "number",
