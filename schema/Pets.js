@@ -25,7 +25,7 @@ cube(`Pets`, {
     
     isSold: {
       sql: `is_sold`,
-      type: `number`
+      type: `boolean`
     },
     
     id: {
